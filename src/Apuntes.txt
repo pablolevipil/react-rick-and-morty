@@ -1,0 +1,17 @@
+Async Await: 
+.- await es para decir que es asincrona a una promesa. 
+.- async nos permite escribir la sintaxys async await. 
+
+Props: 
+.- puedo pasar toods los props con variable={variable} sin tener que nombrarlos uno por uno
+
+CSS Bootstrap: 
+.- para instalar Bootstrap solamente necesito ir a la pagina de Bootstrap y copiar el npm install del mismo. luego tengo que importartlo como import 'Bootstrap/dist/css/bootstrap.min.css'
+
+Network (navegador): 
+.- En las herramientas de desarrollo del navegador puedo ir a consola y Network para simular la carga lenta de un internet(Slow 3G)
+.- Con esta opcion puedo crear una pantalla de carga de componentes para mejor visualización
+
+
+
+
